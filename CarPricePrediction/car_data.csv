@@ -1,0 +1,11 @@
+Car_Name,Year,Selling_Price,Present_Price,Driven_kms,Fuel_Type,Seller_Type,Transmission,Owner
+Swift,2015,3.5,6.0,50000,Petrol,Dealer,Manual,0
+City,2017,7.0,10.0,30000,Petrol,Dealer,Manual,0
+Innova,2016,10.0,15.0,40000,Diesel,Individual,Manual,1
+i20,2018,5.0,7.0,25000,Petrol,Dealer,Automatic,0
+Baleno,2019,6.0,8.5,20000,Petrol,Dealer,Manual,0
+Fortuner,2015,18.0,25.0,60000,Diesel,Dealer,Automatic,0
+Civic,2014,8.0,14.0,35000,Petrol,Individual,Manual,1
+Creta,2018,11.0,13.0,30000,Diesel,Dealer,Automatic,0
+Alto,2013,2.0,3.0,70000,Petrol,Individual,Manual,0
+Verna,2017,7.5,11.0,28000,Petrol,Dealer,Manual,0
